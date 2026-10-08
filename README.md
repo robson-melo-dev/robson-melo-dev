@@ -117,7 +117,3 @@ I'm open to conversations about integration-heavy projects, ERP modernization an
 | 💬 **WhatsApp** | [+55 (55) 99152-0476](https://wa.me/5555991520476)           |
 | 💼 **LinkedIn** | [in/robsonthedev](https://www.linkedin.com/in/robsonthedev/) |
 | 📍 **Location** | Santa Maria / RS — Brazil (remote-friendly, UTC−3)           |
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=robson-melo-dev&style=flat-square&color=38B2AC&label=Profile+views" alt="Profile views" />
-</p>
